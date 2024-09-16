@@ -1,0 +1,6 @@
+@O365Poc.Server_HostAddress = http://localhost:5050
+
+GET {{O365Poc.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
